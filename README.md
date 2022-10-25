@@ -1,1 +1,1 @@
-<h1>Colorful Calculator!!</h1>
+<h1>Colorful Calculator!! - Web</h1>
